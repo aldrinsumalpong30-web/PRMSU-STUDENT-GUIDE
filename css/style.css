@@ -1,0 +1,7 @@
+:root{--blue:#0b2d6b;--gold:#f2b705}
+body{font-family:system-ui,Segoe UI,Roboto,sans-serif;background:#f6f8fc}
+.navbar-prmsu,.footer-prmsu{background:var(--blue);color:#fff}.gold{color:var(--gold)}
+.hero{background:linear-gradient(rgba(11,45,107,.8),rgba(11,45,107,.8)),url('https://placehold.co/1600x700/0b2d6b/ffffff?text=Campus+Photo+Placeholder') center/cover;color:#fff;padding:110px 0}
+.btn-gold{background:var(--gold);color:var(--blue);font-weight:600}.btn-gold:hover{background:#d9a404}
+.card{border:0;box-shadow:0 2px 12px rgba(0,0,0,.08);transition:.2s}.card:hover{transform:translateY(-4px)}
+.card-img-top{height:170px;object-fit:cover}#map{height:70vh;border-radius:12px}.fallback{background:#fff3cd;border-radius:12px;padding:20px}
